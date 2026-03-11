@@ -1,4 +1,6 @@
-## I like turning vague ideas into structured, working systems.
+## Hi, I'm ben.
+
+I like turning vague ideas into structured, working systems.
 
 I build across AI, automation, research workflows, and digital products.
 Some of my work involves designing knowledge graph systems, automating repetitive tasks, prototyping experimental tools, and building projects that connect logic, creativity, and execution.
