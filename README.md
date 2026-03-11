@@ -1,4 +1,4 @@
-## Hi, I'm ben.
+## Hi, I'm ben. 👀
 
 I like turning vague ideas into structured, working systems.
 
